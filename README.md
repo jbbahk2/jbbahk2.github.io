@@ -1,6 +1,6 @@
 # standard-website
 This is a standardized HTML materials to build a personal website that looks like "doeun-kim.github.io".
-I copied and modified codes from our former R maven, Tyler Reny.
+I copied and modified codes from our former R maven, Tyler Reny's website/Github.
 To build your own personal website with this, it requires some basic understandings of HTML. 
 (Google/ChatGPT it! I also googled it.)
 
