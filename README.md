@@ -4,8 +4,6 @@ I copied and modified codes from our former R maven, Tyler Reny.
 To build your own personal website with this, it requires some basic understandings of HTML. 
 (Google/ChatGPT it! I also googled it.)
 
-Note that there is a fancier way to build a website: https://jekyllrb.com
-
 Here are the steps to follow:
 1. Create your own Github account (your github ID will be a part of your website's address: *your_github_id*.github.io
 2. Fork this repository 
@@ -22,3 +20,6 @@ Here are the steps to follow:
 Now go to "<your_github_id>.github.io" to check your website
 
 It might take some time for your website to be updated after you make any changes in your repository (less than 5 minutes usually)
+
+
+Note that there is a fancier way to build a website: https://jekyllrb.com
