@@ -14,7 +14,7 @@ Here are the steps to follow:
   - Source: Deploy from a branch
   - Branch: main - /(root) 
   Then, click "save"
-6. Add more html pages and customize your website
+6. Add more html pages and customize your website (Use Google and ChatGPT!)
 7. delete "README.md" file in the repository
 
 Now go to "<your_github_id>.github.io" to check your website
