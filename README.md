@@ -1,4 +1,4 @@
-# standard-website
+# One Simple Template to Build a Website with Github and HTML
 This is a standardized HTML materials to build a personal website that looks like "doeun-kim.github.io".
 I copied and modified codes from our former R maven, Tyler Reny's website/Github.
 To build your own personal website with this, it requires some basic understandings of HTML. 
