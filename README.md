@@ -23,3 +23,5 @@ It might take some time for your website to be updated after you make any change
 
 
 Note that there is a fancier way to build a website: https://jekyllrb.com
+
+[This blog post](https://nathenry.com/writing/2020-10-04-comparing_web_frameworks.html#:~:text=HTML%20%2B%20CSS%20%2B%20Javascript%3A%20Decent,to%20add%20your%20own%20scripts.) summarizes pros/cons of different website building machines. 
